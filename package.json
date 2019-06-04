@@ -3,6 +3,7 @@
   "version": "0.4.0-beta.4",
   "description": "Inference on Bayesian Networks",
   "main": "dist/bayes.js",
+  "types": "dist/bayes.d.ts",
   "files": [
     "dist"
   ],
